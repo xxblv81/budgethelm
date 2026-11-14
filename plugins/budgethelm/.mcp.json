@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "budgethelm": {
+      "type": "http",
+      "url": "https://agentops.agentops.workers.dev/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.xxblv81/budgethelm",
+  "title": "Budgethelm",
+  "description": "See AI agent token spend per project and model, and stop agents that loop or burn tokens.",
+  "repository": { "url": "https://github.com/xxblv81/budgethelm", "source": "github" },
+  "websiteUrl": "https://agentops.agentops.workers.dev/en",
+  "version": "0.1.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://agentops.agentops.workers.dev/api/mcp" }
+  ]
+}

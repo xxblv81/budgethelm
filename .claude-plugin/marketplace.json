@@ -1,0 +1,12 @@
+{
+  "name": "budgethelm",
+  "description": "Budgethelm plugins for Claude Code",
+  "owner": { "name": "Budgethelm", "url": "https://github.com/xxblv81/budgethelm" },
+  "plugins": [
+    {
+      "name": "budgethelm",
+      "source": "./plugins/budgethelm",
+      "description": "Budgethelm MCP (usage and cost per project, model and agent) plus a /budgethelm:setup skill that installs the loop-stopping guard."
+    }
+  ]
+}
