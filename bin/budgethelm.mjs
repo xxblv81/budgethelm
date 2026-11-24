@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// npx budgethelm            -> same as the one-line installer: one browser approval, then hooks + MCP + usage upload
-// npx budgethelm --help     -> all options of the connect script (detect only, --send, --uninstall, ...)
+// node bin/budgethelm.mjs            -> same as the one-line installer: one browser approval, then hooks + MCP + usage upload
+// node bin/budgethelm.mjs --help     -> all options of the connect script (detect only, --send, --uninstall, ...)
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 

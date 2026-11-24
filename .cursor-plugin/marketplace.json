@@ -1,0 +1,12 @@
+{
+  "name": "budgethelm",
+  "owner": { "name": "Budgethelm" },
+  "metadata": { "description": "Budgethelm plugins for Cursor" },
+  "plugins": [
+    {
+      "name": "budgethelm",
+      "source": "plugins/budgethelm",
+      "description": "See AI agent token spend per project and model, and stop agents that loop or burn tokens."
+    }
+  ]
+}
