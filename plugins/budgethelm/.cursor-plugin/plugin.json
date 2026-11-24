@@ -1,0 +1,11 @@
+{
+  "name": "budgethelm",
+  "description": "See AI agent token spend per project and model, and stop agents that loop or burn tokens.",
+  "version": "0.1.0",
+  "author": { "name": "Budgethelm" },
+  "homepage": "https://budgethelm.agentops.workers.dev",
+  "repository": "https://github.com/xxblv81/budgethelm",
+  "license": "MIT",
+  "keywords": ["usage", "cost", "tokens", "guard", "mcp"],
+  "logo": "assets/logo.svg"
+}

@@ -4,8 +4,8 @@
   "title": "Budgethelm",
   "description": "See AI agent token spend per project and model, and stop agents that loop or burn tokens.",
   "repository": { "url": "https://github.com/xxblv81/budgethelm", "source": "github" },
-  "websiteUrl": "https://agentops.agentops.workers.dev/en",
-  "version": "0.1.0",
+  "websiteUrl": "https://budgethelm.agentops.workers.dev",
+  "version": "0.1.1",
   "remotes": [
     { "type": "streamable-http", "url": "https://agentops.agentops.workers.dev/api/mcp" }
   ]
